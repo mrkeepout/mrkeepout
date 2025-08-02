@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🎓 Computer Science student with hands-on experience in mobile and desktop.
 - 💡 Focused on writing clean, scalable, and efficient code.
 - 📚 Constant learner, always exploring topics like system design, concurrency, and performance.
+- 🏝️ Fun fact and a hobby: I'm a superhost at Airbnb 
 
 ---
 
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 
 ### 🍔 [Unifood](https://github.com/mrkeepout/unifood)
 > Restaurant mapping application for university environments.  
-Built with **Swift**, this project offers a simple and intuitive UX for managing menus and orders.
+Built with **Swift**, this project provides a simple and intuitive user experience for managing menus and orders.
 
 - Swift + UIKit + Node-red
 - Location of restaurants and places to eat
@@ -52,7 +53,7 @@ Built with **Swift**, this project offers a simple and intuitive UX for managing
 ---
 
 ### 💊 Medicine inventory manager (coming soon)
-> A **Swift** inventory system for initially for elderly caregivers.  
+> A **Swift** inventory system initially for elderly caregivers.  
 Designed to support product registration, low-stock alerts, and efficient search.
 
 - Swift + UIKit
