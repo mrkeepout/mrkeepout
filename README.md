@@ -77,6 +77,11 @@ If you're looking for a developer who learns fast, delivers results, and builds 
 
 ## 📊 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkeepout&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeepout&layout=compact&hide=VHDL&theme=monokai)
+<a href="https://github-readme-stats.vercel.app/api?username=mrkeepout&show_icons=true&theme=monokai">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=mrkeepout&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeepout&layout=compact&hide=VHDL,Jupyter%20Notebook&theme=monokai">
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkeepout&layout=compact&&hide=VHDL,Jupyter%20Notebook&langs_count=8&card_width=320&theme=monokai" />
+</a>
+
 
