@@ -77,6 +77,6 @@ If you're looking for a developer who learns fast, delivers results, and builds 
 
 ## 📊 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkeepout&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeepout&&hide=VHDL&theme=tokyonight)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkeepout&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeepout&&hide=VHDL&theme=midnight-purple)
 
